@@ -241,6 +241,7 @@ p a {
 
 .tagline {
   margin: 66px 0 22px 0;
+  text-align: right;
 }
 
 .primary-nav {
