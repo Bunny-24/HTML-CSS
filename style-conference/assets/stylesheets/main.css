@@ -149,8 +149,10 @@ table {
 
 .logo {
 	border-top: 4px solid #648880;
-  	padding: 40px 0 22px 0;
-	float: left;
+  padding: 40px 0 22px 0;
+  float: left;
+  font-size: 48px;
+  line-height: 44px;
   }
 
 /*
