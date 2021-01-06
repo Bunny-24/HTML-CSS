@@ -230,7 +230,13 @@ a:hover {
 }
 a {
   color: #648880;
+  text-decoration: none;
 }
+
+p a {
+  border-bottom: 1px solid #dfe2e5;
+}
+
 
 .tagline {
   margin: 66px 0 22px 0;
