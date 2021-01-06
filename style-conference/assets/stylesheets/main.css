@@ -161,3 +161,13 @@ table {
   padding-left: 15px;
   padding-right: 15px;
 }
+
+/*
+  ========================================
+  Custom styles
+  ========================================
+*/
+body {
+  color: #888;
+  font: 300 16px/22px "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
