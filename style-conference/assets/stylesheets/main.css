@@ -122,7 +122,8 @@ table {
 
 .hero{
   line-height: 44px;
-	padding: 22px 80px 66px 80px;
+  padding: 22px 80px 66px 80px;
+  text-align: center;
   }
 
 .hero h2{
