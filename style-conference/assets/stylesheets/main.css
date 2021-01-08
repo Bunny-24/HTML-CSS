@@ -319,7 +319,7 @@ p a {
 }
 .nav li:last-child {
   margin-right: 0;
-
+}
 /*
   ========================================
   Leads
@@ -329,7 +329,8 @@ p a {
 .lead {
   text-align: center;
 }
-.lead p {
+
+.lead p{
   font-size: 21px;
   line-height: 33px;
 }
